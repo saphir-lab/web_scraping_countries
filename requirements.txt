@@ -1,0 +1,5 @@
+colorama
+bs4
+pandas
+requests
+typer[all]

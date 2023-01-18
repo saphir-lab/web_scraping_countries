@@ -1,0 +1,199 @@
+Country;Status;Capital;Capital location;Largest city;Largest city location;Largest city is Capital;Government;Currency;Driving side;Calling code;ISO 3166 code
+Afghanistan;UN member state under an unrecognized government;Kabul;"34.517; 69.183";Kabul;"34.517; 69.183";True;Unitary totalitarian;Afghani (افغانی) (AFN);right;+93;AF
+Albania;;Tirana;"41.317; 19.817";Tirana;"41.317; 19.817";True;Unitary parliamentary republic;Lek (ALL);right;+355;AL
+Algeria;;Algiers;"36.700; 3.217";Algiers;"36.700; 3.217";True;Unitary semi-presidential republic;Algerian dinar (DZD);right;+213;DZ
+Andorra;;Andorra la Vella;"42.50639; 1.52139";Andorra la Vella;"42.50639; 1.52139";True;Unitary parliamentary constitutional elective diarchy;Euro (€) (EUR);right;+376;AD
+Angola;;Luanda;"-8.833; 13.333";Luanda;"-8.833; 13.333";True;Unitary dominant-party presidential republic;Angolan kwanza (AOA);right;+244;AO
+Antigua and Barbuda;;St. John's;"17.117; -61.850";St. John's;"17.117; -61.850";True;Unitary dominant-party parliamentary constitutional monarchy;East Caribbean dollar (XCD);left;+1-268;AG
+Argentina;;Buenos Aires;"-34.600; -58.383";Buenos Aires;"-34.600; -58.383";True;Federal Presidential Republic;Argentine peso ($) (ARS);right;+54;AR
+Armenia;;Yerevan;"40.183; 44.517";Yerevan;"40.183; 44.517";True;Unitary parliamentary republic;Dram (֏) (AMD);right;+374;AM
+Australia;;Canberra;"-35.30806; 149.12444";Sydney;;False;Federal parliamentary constitutional monarchy;Australian dollar ($) (AUD);left;+61;AU
+Austria;;Vienna;"48.200; 16.350";Vienna;"48.200; 16.350";True;Federal parliamentary republic;Euro (€) (EUR);right;+43;AT
+Azerbaijan;;Baku;"40.39528; 49.88222";Baku;"40.39528; 49.88222";True;Unitary semi-presidential republic;Manat (₼) (AZN);right;+994;AZ
+Bahamas;;Nassau;"25.07806; -77.33861";Nassau;"25.07806; -77.33861";True;Unitary parliamentary constitutional monarchy;Bahamian dollar (BSD) United States dollar (USD);left;+1 242;BS
+Bahrain;;Manama;"26.217; 50.583";Manama;"26.217; 50.583";True;Unitary Islamic parliamentary semi-constitutional monarchy;Bahraini dinar (BHD);right;+973;BH
+Bangladesh;;Dhaka;"23.76389; 90.38889";Dhaka;"23.76389; 90.38889";True;Unitary dominant-party parliamentary republic;Taka (৳) (BDT);left;+880;BD
+Barbados;;Bridgetown;"13.09778; -59.61833";Bridgetown;"13.09778; -59.61833";True;Unitary parliamentary republic;Barbadian dollar ($) (BBD);left;+1 -246;BB
+Belarus;;Minsk;"53.917; 27.550";Minsk;"53.917; 27.550";True;Unitary presidential republic under an authoritarian dictatorship;Belarusian ruble (BYN);right;+375;BY
+Belgium;;Brussels;"50.850; 4.350";Brussels;"50.850; 4.350";True;Federal parliamentaryconstitutional monarchy;Euro (€) (EUR);right;+32;BE
+Belize;;Belmopan;"17.250; -88.767";Belize City;"17.483; -88.183";False;Unitary parliamentary constitutional monarchy;Belize dollar (BZD);right;+501;BZ
+Benin;;Porto-Novo;;Cotonou;;False;Unitary presidential republic;West African CFA franc (XOF);right;+229;BJ
+Bhutan;;Thimphu;"27.4667; 89.6417";Thimphu;"27.4667; 89.6417";True;Unitary parliamentary semi-constitutional monarchy;Ngultrum (BTN) Indian rupee (₹) (INR);left;+975;BT
+Bolivia;;La Paz;;Santa Cruz de la Sierra;"-17.800; -63.167";False;Unitary presidential republic;Boliviano (BOB);right;+591;BO
+Bosnia and Herzegovina;;Sarajevo;"43.867; 18.417";Sarajevo;"43.867; 18.417";True;Federal parliamentary directorial republic;Convertible mark (BAM);right;+387;BA
+Botswana;;Gaborone;"-24.6583; 25.9083";Gaborone;"-24.6583; 25.9083";True;Unitary dominant-party parliamentary republic with an executive presidency;Pula (BWP);left;+267;BW
+Brazil;;Brasília;"-15.783; -47.867";São Paulo;"-23.550; -46.633";False;Federal presidential constitutional republic;Real (R$) (BRL);right;+55;BR
+Brunei;;Bandar Seri Begawan;"4.890283; 114.942217";Bandar Seri Begawan;"4.890283; 114.942217";True;Unitary Islamic absolute monarchy;Brunei dollar (BND);left;+673;BN
+Bulgaria;;Sofia;"42.683; 23.317";Sofia;"42.683; 23.317";True;Unitary parliamentary republic;Lev (BGN);right;+359;BG
+Burkina Faso;;Ouagadougou;"12.367; -1.533";Ouagadougou;"12.367; -1.533";True;Unitary state under a military junta;West African CFA franc (XOF);right;+226;BF
+Burundi;;Gitega;"-3.500; 30.000";Bujumbura;;False;Unitary dominant-party presidential republic;Burundian franc (FBu) (BIF);right;+257;BI
+Cabo Verde;;Praia;"14.917; -23.517";Praia;"14.917; -23.517";True;Unitary semi-presidential republic;Cape Verdean escudo (CVE);right;+238;CV
+Cambodia;;Phnom Penh;"11.550; 104.917";Phnom Penh;"11.550; 104.917";True;Unitary dominant-party parliamentary elective constitutional monarchy;"Riel (៛) (KHR; de jure)United States dollar ($) (USD; de facto)";right;+855;KH
+Cameroon;;Yaoundé;"3.867; 11.517";Douala;;False;Unitary dominant-party presidential republic;Central African CFA franc (XAF);right;+237;CM
+Canada;;Ottawa;"45.400; -75.667";Toronto;;False;Federal parliamentaryconstitutional monarchy;Canadian dollar ($) (CAD);right;+1;
+Central African Republic;;Bangui;"4.367; 18.583";Bangui;"4.367; 18.583";True;Unitary presidential republic;"Central African CFA franc (XAF)
+Bitcoin (BTC)";right;+236;CF
+Chad;;N'Djamena;"12.100; 16.033";N'Djamena;"12.100; 16.033";True;Unitary republic under a military junta;Central African CFA franc (XAF);right;+235;TD
+Chile;;Santiago;"-33.433; -70.667";Santiago;"-33.433; -70.667";True;Unitary presidential republic;Chilean peso (CLP);right;+56;CL
+China;;Beijing;"39.917; 116.383";;;False;Unitary Marxist–Leninist one-party socialist republic;Renminbi (元/¥) (CNY);right (Mainland)left (Hong Kong and Macau);+86 (Mainland)+852 (Hong Kong)+853 (Macau);CN
+Colombia;;Bogotá;"4.583; -74.067";Bogotá;"4.583; -74.067";True;Unitary presidential republic;Colombian peso (COP);right;+57;CO
+Comoros;;Moroni;"-11.683; 43.267";Moroni;"-11.683; 43.267";True;Federal Islamic presidential republic;Comorian franc (KMF);right;+269;KM
+Congo;;;;;;;;;;;
+Costa Rica;;San José;"9.933; -84.083";San José;"9.933; -84.083";True;Unitary presidential republic;Costa Rican colón (CRC);right;+506;CR
+Croatia;;Zagreb;"45.800; 16.000";Zagreb;"45.800; 16.000";True;Unitary parliamentary republic;Euro (€) (EUR);right;+385;HR
+Cuba;;Havana;"23.133; -82.383";Havana;"23.133; -82.383";True;Unitary Marxist–Leninist one-party socialist republic;Cuban peso (CUP);right;+53;CU
+Cyprus;;Nicosia;"35.167; 33.367";Nicosia;"35.167; 33.367";True;Unitary presidential republic;Euro (€) (EUR);left;+357;CY
+Czechia;;Prague;"50.083; 14.467";Prague;"50.083; 14.467";True;Unitary parliamentary republic;Czech koruna (CZK);right;+420;CZ
+Côte dIvoire;;Yamoussoukro;"6.850; -5.300";Abidjan;;False;Unitary presidential republic;West African CFA franc (XOF);right;+225;CI
+Democratic Republic of the Congo;;Kinshasa;"-4.317; 15.317";Kinshasa;"-4.317; 15.317";True;Unitary semi-presidential republic;Congolese franc (CDF);right;+243;CD
+Denmark;;Copenhagen;"55.717; 12.567";Copenhagen;"55.717; 12.567";True;Unitary parliamentary constitutional monarchy;Danish krone (kr.) (DKK);right;+45;DK
+Djibouti;;Djibouti;"11.600; 43.167";Djibouti;"11.600; 43.167";True;Unitary presidential republic under a hereditary dictatorship;Djiboutian franc (DJF);right;+253;DJ
+Dominica;;Roseau;"15.300; -61.383";Roseau;"15.300; -61.383";True;Unitary dominant-party parliamentary republic;East Caribbean dollar (XCD);left;+1-767;DM
+Dominican Republic;;Santo Domingo;"19.000; -70.667";Santo Domingo;"19.000; -70.667";True;Unitary presidential republic;Dominican peso (DOP);right;+1-809 +1-829 +1-849;DO
+Ecuador;;Quito;"-0.22000; -78.51194";Quito;"-0.22000; -78.51194";True;Unitary presidential republic;United States dollarb (USD);right;+593;EC
+Egypt;;Cairo;"30.033; 31.217";Cairo;"30.033; 31.217";True;Unitary semi-presidential republic;Egyptian pound (LE/E£/£E) (EGP);right;+20;EG
+El Salvador;;San Salvador;"13.69889; -89.19139";San Salvador;"13.69889; -89.19139";True;Unitary presidential republic;"United States dollar (USD; since 2001)";right;+503;SV
+Equatorial Guinea;;Malabo;"3.750; 8.783";Malabo;;False;Unitary dominant-party presidential republic under a dictatorship;Central African CFA franc (XAF);right;+240;GQ
+Eritrea;;Asmara;"15.333; 38.917";Asmara;"15.333; 38.917";True;Unitary one-party presidential republic under a totalitarian dictatorship;Nakfa (ERN);right;+291;ER
+Estonia;;Tallinn;"59.417; 24.750";Tallinn;"59.417; 24.750";True;Unitary parliamentary republic;Euro (€) (EUR);right;+372;EE
+Eswatini;;Mbabane;"-26.500; 31.500";Manzini;;False;Unitary absolute monarchy;"Lilangeni (SZL)
+South African rand (ZAR)";left;+268;SZ
+Ethiopia;;Addis Ababa;"9.017; 38.750";Addis Ababa;"9.017; 38.750";True;Federal parliamentary republic;Birr (ETB);right;+251;ET
+Fiji;;Suva;"-18.167; 178.450";Suva;"-18.167; 178.450";True;Unitary parliamentary republic;Fijian dollar (FJD);left;+679;FJ
+Finland;;Helsinki;"60.17083; 24.93750";Helsinki;"60.17083; 24.93750";True;Unitary parliamentary republic;Euro (€) (EUR);right;+358;FI
+France;;Paris;"48.850; 2.350";Paris;"48.850; 2.350";True;Unitary semi-presidential republic;Euro (€) (EUR);right;+33;FR
+Gabon;;Libreville;"0.383; 9.450";Libreville;"0.383; 9.450";True;Unitary dominant-party presidential republic;Central African CFA franc (XAF);right;+241;GA
+Gambia;;Banjul;"13.467; -16.600";;;False;Unitary presidential republic;Dalasi (GMD);right;+220;GM
+Georgia;;;;;;;;;;;
+Germany;;Berlin;"52.517; 13.383";Berlin;"52.517; 13.383";True;Federal parliamentary republic;Euro (€) (EUR);right;+49;DE
+Ghana;;Accra;"5.550; -0.200";Accra;"5.550; -0.200";True;Unitary presidential republic;Cedi (GHS);right;+233;GH
+Greece;;Athens;"37.967; 23.717";Athens;"37.967; 23.717";True;Unitary parliamentary republic;Euro (€) (EUR);right;+30;GR
+Grenada;;St. George's;"12.050; -61.750";St. George's;"12.050; -61.750";True;Unitary parliamentary constitutional monarchy;East Caribbean dollar (XCD);left;+1-473;GD
+Guatemala;;Guatemala City;"14.633; -90.500";Guatemala City;"14.633; -90.500";True;Unitary presidential republic;Quetzal (GTQ);right;+502;GT
+Guinea-Bissau;;Bissau;"11.867; -15.600";Bissau;"11.867; -15.600";True;Unitary semi-presidential republic;West African CFA franc (XOF);right;+245;GW
+Guinea;;Conakry;"9.517; -13.700";;;False;Unitary republic under a military junta;Guinean franc (GNF);right;+224;GN
+Guyana;;Georgetown;"6.80583; -58.15083";Georgetown;"6.80583; -58.15083";True;Unitary assembly-independent republic;Guyanese dollar (GYD);left;+592;GY
+Haiti;;Port-au-Prince;"18.533; -72.333";Port-au-Prince;"18.533; -72.333";True;Unitary semi-presidential republic;Gourde (G) (HTG);right;+509;HT
+Holy See;;Vatican City;"41.9033; 12.4533";;;False;Unitary Christian theocratic elective absolute monarchy;;;;
+Honduras;;Tegucigalpa;"14.100; -87.217";Tegucigalpa;"14.100; -87.217";True;Unitary presidential republic;Lempira (HNL);right;+504;HN
+Hungary;;Budapest;"47.433; 19.250";Budapest;"47.433; 19.250";True;Unitary parliamentary republic;Forint (HUF);right;+36;HU
+Iceland;;Reykjavík;"64.133; -21.933";Reykjavík;"64.133; -21.933";True;Unitary parliamentary republic;Icelandic króna (ISK);right;+354;IS
+India;;New Delhi;"28.61389; 77.20833";Mumbai;;False;Federal parliamentary constitutional republic;Indian rupee (₹) (INR);left;+91;IN
+Indonesia;;Jakarta;"-6.167; 106.817";Jakarta;"-6.167; 106.817";True;Unitary presidential republic;Indonesian rupiah (Rp) (IDR);left;+62;ID
+Iran;;Tehran;"35.683; 51.417";Tehran;"35.683; 51.417";True;Unitary theocratic Islamic republic;Iranian rial (ریال) (IRR);right;+98;IR
+Iraq;;Baghdad;"33.333; 44.383";Baghdad;"33.333; 44.383";True;Federal parliamentary republic;Iraqi dinar (IQD);right;+964;IQ
+Ireland;;;;Belfast;;False;;;;;
+Israel;;Jerusalem;"31.783; 35.217";Jerusalem;"31.783; 35.217";True;Unitary parliamentary republic;New shekel (₪) (ILS);right;+972;IL
+Italy;;Rome;"41.900; 12.483";Rome;"41.900; 12.483";True;Unitary parliamentary republic;Euro (€)b (EUR);right;+39c;IT
+Jamaica;;Kingston;"17.97139; -76.79306";Kingston;"17.97139; -76.79306";True;Unitary parliamentary constitutional monarchy;Jamaican dollar (JMD);left;"+1-876+1-658 (Overlay of 876; active in November 2018)";JM
+Japan;;Tokyo;"35.683; 139.767";Tokyo;"35.683; 139.767";True;Unitary parliamentary constitutional monarchy;Japanese yen (¥);left;+81;JP
+Jordan;;Amman;"31.950; 35.933";Amman;"31.950; 35.933";True;Unitary constitutional monarchy;Jordanian dinar (JOD);right;+962;JO
+Kazakhstan;;Astana;"51.167; 71.433";Almaty;"43.27750; 76.89583";False;Unitary dominant-party presidential republic;Tenge (₸) (KZT);right;+997 (Permissive dialling with +7-6xx +7-7xx until 2025.);KZ
+Kenya;;Nairobi;"-1.267; 36.800";Nairobi;"-1.267; 36.800";True;Unitary presidential republic;Kenyan shilling (KES);left;+254;KE
+Kiribati;;South Tarawa;"1.467; 173.033";South Tarawa;"1.467; 173.033";True;Unitary parliamentary republic with an executive presidency;Australian dollar (AUD);left;+686;KI
+Kuwait;;Kuwait City;;Kuwait City;;True;Unitary parliamentary semi-constitutional monarchy;Kuwaiti dinar;right;+965;KW
+Kyrgyzstan;;Bishkek;"42.867; 74.600";Bishkek;"42.867; 74.600";True;Unitary presidential republic;Kyrgyzstani som (c) (KGS);right;+996;KG
+Laos;;Vientiane;"17.967; 102.600";Vientiane;"17.967; 102.600";True;Unitary Marxist–Leninist one-party socialist republic;Kip (₭) (LAK);right;+856;LA
+Latvia;;Riga;"56.950; 24.100";Riga;"56.950; 24.100";True;Unitary parliamentary republic;Euro (€) (EUR);right;+371;LV
+Lebanon;;Beirut;"33.900; 35.533";Beirut;"33.900; 35.533";True;Unitary confessionalist parliamentary republic;Lebanese pound (LBP);right;+961;LB
+Lesotho;;Maseru;"-29.467; 27.933";Maseru;"-29.467; 27.933";True;Unitary parliamentary constitutional monarchy;Lesotho Loti (LSL)South African rand (ZAR);left;+266;LS
+Liberia;;Monrovia;"6.317; -10.800";Monrovia;"6.317; -10.800";True;Unitary presidential constitutional republic;Liberian dollar (LRD);right;+231;LR
+Libya;;Tripoli;"32.867; 13.183";Tripoli;"32.867; 13.183";True;Unitary provisional unity government;Libyan dinar (LYD);right;+218;LY
+Liechtenstein;;Vaduz;;;;False;Unitary parliamentary semi-constitutional monarchy under a semi-direct democracy;Swiss franc (CHF);right;+423;LI
+Lithuania;;Vilnius;"54.683; 25.317";Vilnius;"54.683; 25.317";True;Unitary semi-presidential republic;Euro (€) (EUR);right;+370;LT
+Luxembourg;;Luxembourg;"49.81444; 6.13167";Luxembourg;"49.81444; 6.13167";True;Unitary parliamentary constitutional monarchy;Euro (€) (EUR);right;+352;LU
+Madagascar;;Antananarivo;"-18.917; 47.517";Antananarivo;"-18.917; 47.517";True;Unitary semi-presidential republic;Ariary (MGA);right;+261;MG
+Malawi;;Lilongwe;"-13.950; 33.700";Lilongwe;"-13.950; 33.700";True;Unitary presidential republic;Malawian kwacha (D) (MWK);left;+265;MW
+Malaysia;;Putrajaya;"3.133; 101.683";Kuala Lumpur;;False;Federal parliamentary constitutional elective monarchy;Ringgit (RM) (MYR);left;+60;MY
+Maldives;;Malé;;Malé;;True;Unitary presidential constitutional republic;Maldivian rufiyaa (MVR)United States dollar (USD used in Maldivian resort islands);left;+960;MV
+Mali;;Bamako;"12.650; -8.000";Bamako;"12.650; -8.000";True;Unitary semi-presidential republic under a military junta;West African CFA franc (XOF);right;+223;ML
+Malta;;Valletta;"35.900; 14.517";;;False;Unitary parliamentary republic;Euro (€) (EUR);left;+356;MT
+Marshall Islands;;Delap-Uliga-Djarrit;"7.117; 171.067";Delap-Uliga-Djarrit;"7.117; 171.067";True;Unitary parliamentary republic with an executive presidency;United States dollar (USD);right;+692;MH
+Mauritania;;Nouakchott;"18.150; -15.967";Nouakchott;"18.150; -15.967";True;Unitary semi-presidential  Islamic republic;Ouguiya (MRU);right;+222;MR
+Mauritius;;Port Louis;"-20.2; 57.5";Port Louis;"-20.2; 57.5";True;Unitary parliamentary republic;Mauritian rupee (MUR);left;+230;MU
+Mexico;;Mexico City;"19.433; -99.133";Mexico City;"19.433; -99.133";True;Federal presidentialrepublic;Mexican peso (MXN);right;+52;MX
+Micronesia;;;;;;;;;;;
+Moldova;;Chișinău;"47.000; 28.917";Chișinău;"47.000; 28.917";True;Unitary parliamentary republic;Moldovan leu (MDL);right;+373;MD
+Monaco;;Monaco;"43.73111; 7.42000";;;False;Unitary parliamentary semi-constitutional monarchy;Euro (€) (EUR);right;+377;MC
+Mongolia;;Ulaanbaatar;"48; 106";Ulaanbaatar;"48; 106";True;Unitary semi-presidential republic;Tögrög (MNT);right;+976;MN
+Montenegro;;Podgorica;"42.783; 19.467";Podgorica;"42.783; 19.467";True;Unitary parliamentary republic;Euro (€)a (EUR);right;+382;ME
+Morocco;;Rabat;"34.033; -6.850";Casablanca;"33.533; -7.583";False;Unitary parliamentary semi-constitutional monarchy;Moroccan dirham (MAD);right;+212;MA
+Mozambique;;Maputo;"-25.950; 32.583";Maputo;"-25.950; 32.583";True;Unitary dominant-party semi-presidential republic;Metical (MZN);left;+258;MZ
+Myanmar;;Naypyidaw;"19.750; 96.100";Yangon;;False;Unitary assembly-independent republic under a military junta;Kyat (K) (MMK);right;+95;MM
+Namibia;;Windhoek;"-22.567; 17.083";Windhoek;"-22.567; 17.083";True;Unitary dominant-party semi-presidential republic;Namibian dollar  (NAD)  South African rand (ZAR);left;+264;NA
+Nauru;;None (;;Denigomodu;;False;Parliamentary republic with an executive presidency under a non-partisan democracy;Australian dollar (AUD);left;+674;NR
+Nepal;;Kathmandu;"28.167; 84.250";Kathmandu;"28.167; 84.250";True;Federal parliamentary republic;Nepalese rupee (Rs रू) (NPR);left;+977;NP
+Netherlands;;Amsterdam;"52.367; 4.883";Amsterdam;"52.367; 4.883";True;Unitary parliamentary constitutional monarchy;Euro (€) (EUR)United States dollar (US$) (USD);right;+31 +599;NL
+New Zealand;;Wellington;"-41.300; 174.783";Auckland;;False;Unitary parliamentary constitutional monarchy;New Zealand dollar ($) (NZD);left;+64;NZ
+Nicaragua;;Managua;"12.100; -86.233";Managua;"12.100; -86.233";True;Unitary dominant-party presidential republic;Córdoba (NIO);right;+505;NI
+Niger;;Niamey;"13.533; 2.083";Niamey;"13.533; 2.083";True;Unitary semi-presidential republic;West African CFA franc (XOF);right;+227;NE
+Nigeria;;Abuja;"9.067; 7.483";Lagos;;False;Federal presidential republic;Naira (₦) (NGN);right;+234;NG
+North Korea;;Pyongyang;"39.033; 125.750";Pyongyang;"39.033; 125.750";True;Unitary one-party socialist republic under a totalitarian hereditary dictatorship;Korean People's won (₩) (KPW);right;+850;KP
+North Macedonia;;Skopje;"42.000; 21.433";Skopje;"42.000; 21.433";True;Unitary parliamentary republic;Macedonian denar (MKD);right;+389;MK
+Norway;;Oslo;"59.933; 10.683";Oslo;"59.933; 10.683";True;Unitary parliamentary constitutional monarchy;Norwegian krone (NOK);right;+47;NO
+Oman;;Muscat;"23.58889; 58.40833";Muscat;"23.58889; 58.40833";True;Unitary Islamic absolute monarchy;Omani rial (OMR);right;+968;OM
+Pakistan;;Islamabad;"33.69167; 73.05000";Karachi;"24.86000; 67.01000";False;Federal Islamic parliamentary republic;Pakistani rupee (₨) (PKR);left;+92;PK
+Palau;;Ngerulmud;"7.500; 134.617";Koror;"7.333; 134.483";False;Unitary presidential republic under a non-partisan democracy;United States dollar (USD);right;+680;PW
+Panama;;Panama City;"8.967; -79.533";Panama City;"8.967; -79.533";True;Unitary presidential constitutional republic;Balboa (PAB)United States dollar (USD);right;+507;PA
+Papua New Guinea;;Port Moresby;"-9.47889; 147.14944";Port Moresby;"-9.47889; 147.14944";True;Unitary parliamentaryconstitutional monarchy;Kina (PGK);left;+675;PG
+Paraguay;;Asunción;"-25.267; -57.667";Asunción;"-25.267; -57.667";True;Unitary presidential republic;Guaraní (PYG);right;+595;PY
+Peru;;Lima;"-12.0433; -77.0283";Lima;"-12.0433; -77.0283";True;Unitary semi-presidential republic;Peruvian sol (PEN);right;+51;PE
+Philippines;;Manila;;Quezon City;"14.633; 121.033";False;Unitary presidential republic;Philippine peso (₱) (PHP);right;+63;PH
+Poland;;Warsaw;"52.217; 21.033";Warsaw;"52.217; 21.033";True;Unitary parliamentary republic;Złoty (PLN);right;+48;PL
+Portugal;;Lisbon;"38.767; -9.150";Lisbon;"38.767; -9.150";True;Unitary semi-presidential constitutional republic;Euro (€) (EUR);right;+351;PT
+Qatar;;Doha;"25.300; 51.517";Doha;"25.300; 51.517";True;Unitary authoritarian parliamentary semi-constitutional monarchy;Qatari riyal (QAR);right;+974;QA
+Romania;;Bucharest;"44.417; 26.100";Bucharest;"44.417; 26.100";True;Unitary semi-presidential republic;Romanian leu (RON);right;+40;RO
+Russia;;Moscow;"55.75583; 37.61722";Moscow;"55.75583; 37.61722";True;Federal semi-presidential republic under an authoritarian dictatorship;Russian rouble (₽) (RUB);right;+7;RU
+Rwanda;;Kigali;"-1.94389; 30.05944";Kigali;"-1.94389; 30.05944";True;Unitary presidential republic under an authoritarian government;Rwandan franc (RWF);right;+250;RW
+Saint Kitts and Nevis;;Basseterre;"17.300; -62.733";Basseterre;"17.300; -62.733";True;Federal parliamentaryconstitutional monarchy;East Caribbean dollar (EC$) (XCD);left;+1 869;KN
+Saint Lucia;;Castries;"13.88333; -60.96667";Castries;"13.88333; -60.96667";True;Unitary parliamentary constitutional monarchy;E.C Dollar (XCD);left;+1 758;LC
+Saint Vincent and the Grenadines;;Kingstown;"13.167; -61.233";Kingstown;"13.167; -61.233";True;Unitary parliamentary constitutional monarchy;E.C dollar (XCD);left;+1 784;VC
+Samoa;;Apia;"-13.83333; -171.76222";Apia;"-13.83333; -171.76222";True;Unitary parliamentary republic;Tālā (WS$b) (WST);leftd;+685;WS
+San Marino;;San Marino;"43.933; 12.433";;;False;Unitary assembly-independent diarchic directorial republic;Euro (€) (EUR);right;+378 (+39 0549 calling via Italy);SM
+Sao Tome and Principe;;São Tomé;"0.333; 6.733";São Tomé;"0.333; 6.733";True;Unitary semi-presidential republic;Dobra (STN);right;+239;ST
+Saudi Arabia;;Riyadh;"24.650; 46.767";Riyadh;"24.650; 46.767";True;Unitary Islamic absolute monarchy;Saudi riyal (SR) (SAR);right;+966;SA
+Senegal;;Dakar;"14.667; -17.417";Dakar;"14.667; -17.417";True;Unitary presidential republic;West African CFA franc (XOF);right;+221;SN
+Serbia;;Belgrade;"44.800; 20.467";Belgrade;"44.800; 20.467";True;Unitary parliamentary republic;Serbian dinar (RSD);right;+381;RS
+Seychelles;;Victoria;"-4.617; 55.450";Victoria;"-4.617; 55.450";True;Unitary presidential republic;Seychellois rupee (SCR);left;+248;SC
+Sierra Leone;;Freetown;"8.50000; -12.10000";Freetown;"8.50000; -12.10000";True;Unitary presidential republic;Leone (SLL);right;+232;SL
+Singapore;;Singapore (;"1.283; 103.833";;;False;Unitary dominant-party parliamentary republic;Singapore dollar (S$) (SGD);left;+65;SG
+Slovakia;;Bratislava;"48.150; 17.117";Bratislava;"48.150; 17.117";True;Unitary parliamentary republic;Euro (€) (EUR);right;+421;SK
+Slovenia;;Ljubljana;"46.050; 14.500";Ljubljana;"46.050; 14.500";True;Unitary parliamentary republic;Euro (€) (EUR);right;+386;SI
+Solomon Islands;;Honiara;"-9.43194; 159.95556";Honiara;"-9.43194; 159.95556";True;Unitary parliamentary constitutional monarchy;Solomon Islands dollar (SBD);left;+677;SB
+Somalia;;Mogadishu;"2.033; 45.350";Mogadishu;"2.033; 45.350";True;Federal parliamentary republic;Somali shilling (SOS);right;+252;SO
+South Africa;;Pretoria;;Johannesburg;;False;Unitary dominant-party parliamentary republic with an executive presidency;South African rand (ZAR);left;+27;ZA
+South Korea;;Seoul;"37.550; 126.967";Seoul;"37.550; 126.967";True;Unitary presidential constitutional republic;Korean Republic won (₩) (KRW);right;+82;KR
+South Sudan;;Juba;"4.850; 31.600";Juba;"4.850; 31.600";True;Federal provisional unity government;South Sudanese pound (SSP);right;+211;SS
+Spain;;Madrid;"40.433; -3.700";Madrid;"40.433; -3.700";True;Unitary parliamentary constitutional monarchy;Euro (€) (EUR);right;+34;ES
+Sri Lanka;;Sri Jayawardenepura Kotte;"6.933; 79.867";Colombo;;False;Unitary semi-presidential republic;Sri Lankan rupee (Rs) (LKR);left;+94;LK
+Sudan;;Khartoum;"15.633; 32.533";Omdurman;;False;Federal provisional government;Sudanese pound (SDG);right;+249;SD
+Suriname;;Paramaribo;"5.833; -55.167";Paramaribo;"5.833; -55.167";True;Unitary assembly-independent republic;Surinamese dollar (SRD);left;+597;SR
+Sweden;;Stockholm;"59.350; 18.067";Stockholm;"59.350; 18.067";True;Unitary parliamentaryconstitutional monarchy;Swedish krona (SEK);right;+46;SE
+Switzerland;;None (;"46.950; 7.450";Zürich;;False;Federal assembly-independent directorial republic with elements of a direct democracy;Swiss franc (CHF);right;+41;CH
+Syria;;Damascus;"33.500; 36.300";Damascus;"33.500; 36.300";True;Unitary semi-presidential republic hereditary dictatorship;Syrian pound (SYP);right;+963;SY
+Tajikistan;;Dushanbe;"38.550; 68.800";Dushanbe;"38.550; 68.800";True;Unitary presidential republic under an authoritarian dictatorship;Somoni (TJS);right;+992;TJ
+Tanzania;;Dodoma;;Dar es Salaam;;False;Unitary dominant-party presidential republic;Tanzanian shilling (TZS);left;+255;TZ
+Thailand;;Bangkok;"13.750; 100.483";Bangkok;"13.750; 100.483";True;Unitary parliamentary semi-democratic constitutional monarchy;Baht (฿) (THB);left;+66;TH
+Timor-Leste;;Dili;"-8.55; 125.56";Dili;"-8.55; 125.56";True;Unitary semi-presidential republic;United States dollarb (USD);left;+670;TL
+Togo;;Lomé;"6.133; 1.217";Lomé;"6.133; 1.217";True;Unitary dominant-party presidential republic;West African CFA franc (XOF);right;+228;TG
+Tonga;;Nukuʻalofa;"-21.133; -175.200";Nukuʻalofa;"-21.133; -175.200";True;Unitary parliamentary semi-constitutional monarchy;Paʻanga (TOP);left;+676;TO
+Trinidad and Tobago;;Port of Spain;"10.66667; -61.50750";San Fernando;"10.283; -61.467";False;Unitary parliamentary republic;Trinidad and Tobago dollar (TTD);left;+1 (868);TT
+Tunisia;;Tunis;"36.817; 10.183";Tunis;"36.817; 10.183";True;Unitary presidential republic;Tunisian dinar (TND);right;+216;TN
+Turkey;;Ankara;"39; 35";Istanbul;"41.017; 28.950";False;Unitary presidential constitutional republic;Turkish lira (₺) (TRY);right;+90;TR
+Turkmenistan;;Ashgabat;"37.967; 58.333";Ashgabat;"37.967; 58.333";True;Unitary presidential republic under a totalitarian hereditary dictatorship;Manat (TMT);right;+993;TM
+Tuvalu;;Funafuti;"-8.517; 179.200";Funafuti;"-8.517; 179.200";True;Unitary non-partisan parliamentary constitutional monarchy;"Tuvaluan dollar
+Australian dollar
+ (AUD)";left;+688;TV
+Uganda;;Kampala;;Kampala;;True;Unitary dominant-party presidential republic;Ugandan shilling (UGX);left;+256a;UG
+Ukraine;;Kyiv;"49; 32";Kyiv;"49; 32";True;Unitary semi-presidential republic;Hryvnia (₴) (UAH);right;+380;UA
+United Arab Emirates;;Abu Dhabi;"24.467; 54.367";Dubai;"25.250; 55.300";False;Federal Islamic parliamentary elective semi-constitutional monarchy;UAE dirham (AED);right;+971;AE
+United Kingdom;;London;"51.500; -0.117";London;"51.500; -0.117";True;Unitary parliamentaryconstitutional monarchy;Pound sterling (GBP);left;+44;GB
+United States of America;;Washington D.C.;"38.883; -77.017";New York City;"40.717; -74.000";False;Federal presidential constitutional republic;U.S. dollar ($) (USD);right;+1;US
+Uruguay;;Montevideo;"-34.883; -56.167";Montevideo;"-34.883; -56.167";True;Unitary presidential republic;Uruguayan peso (UYU);right;+598;UY
+Uzbekistan;;Tashkent;"41.317; 69.267";Tashkent;"41.317; 69.267";True;Unitary dominant-party presidential republic;Uzbek soum (UZS);right;+998;UZ
+Vanuatu;;Port Vila;"-17; 168";Port Vila;"-17; 168";True;Unitary parliamentary republic;Vatu (VUV);right;+678;VU
+Venezuela;;Caracas;"10.500; -66.917";Caracas;"10.500; -66.917";True;Federal presidential republic;Venezuelan bolívar (VED);right;+58;VE
+Vietnam;;Hanoi;"21.033; 105.850";Ho Chi Minh City;"10.800; 106.650";False;Unitary Marxist–Leninist one-party socialist republic;đồng (₫) (VND);right;+84;VN
+Yemen;Yemeni Civil WarPresidential Leadership Council recognized byUnited Nations;Sanaa;"15.34833; 44.20639";Sanaa;"15.34833; 44.20639";True;Unitary provisional Islamic republic;Yemeni rial (YER);right;+967;YE
+Zambia;;Lusaka;"-15.417; 28.283";Lusaka;"-15.417; 28.283";True;Unitary presidential republic;Zambian kwacha (ZMW);left;+260;ZM
+Zimbabwe;;Harare;"-17.82917; 31.05222";Harare;"-17.82917; 31.05222";True;Unitary dominant-party presidential republic;Zimbabwean dollarU.S. dollar ($) (USD);left;+263;ZW

@@ -5,6 +5,5 @@ archive/
 data/
 env/
 log/
-out/
 test/
 test.py

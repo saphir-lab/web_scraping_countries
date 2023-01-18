@@ -1,196 +1,196 @@
-Country,Population(2020),Land Area(Km²),Density(P/Km²),wiki_site,wiki_status
-Afghanistan,38928346,652860,60,https://en.wikipedia.org/wiki/Afghanistan,200.0
-Albania,2877797,27400,105,https://en.wikipedia.org/wiki/Albania,200.0
-Algeria,43851044,2381740,18,https://en.wikipedia.org/wiki/Algeria,200.0
-Andorra,77265,470,164,https://en.wikipedia.org/wiki/Andorra,200.0
-Angola,32866272,1246700,26,https://en.wikipedia.org/wiki/Angola,200.0
-Antigua and Barbuda,97929,440,223,https://en.wikipedia.org/wiki/Antigua_And_Barbuda,200.0
-Argentina,45195774,2736690,17,https://en.wikipedia.org/wiki/Argentina,200.0
-Armenia,2963243,28470,104,https://en.wikipedia.org/wiki/Armenia,200.0
-Australia,25499884,7682300,3,https://en.wikipedia.org/wiki/Australia,200.0
-Austria,9006398,82409,109,https://en.wikipedia.org/wiki/Austria,200.0
-Azerbaijan,10139177,82658,123,https://en.wikipedia.org/wiki/Azerbaijan,200.0
-Bahamas,393244,10010,39,https://en.wikipedia.org/wiki/Bahamas,200.0
-Bahrain,1701575,760,2239,https://en.wikipedia.org/wiki/Bahrain,200.0
-Bangladesh,164689383,130170,1265,https://en.wikipedia.org/wiki/Bangladesh,200.0
-Barbados,287375,430,668,https://en.wikipedia.org/wiki/Barbados,200.0
-Belarus,9449323,202910,47,https://en.wikipedia.org/wiki/Belarus,200.0
-Belgium,11589623,30280,383,https://en.wikipedia.org/wiki/Belgium,200.0
-Belize,397628,22810,17,https://en.wikipedia.org/wiki/Belize,200.0
-Benin,12123200,112760,108,https://en.wikipedia.org/wiki/Benin,200.0
-Bhutan,771608,38117,20,https://en.wikipedia.org/wiki/Bhutan,200.0
-Bolivia,11673021,1083300,11,https://en.wikipedia.org/wiki/Bolivia,200.0
-Bosnia and Herzegovina,3280819,51000,64,https://en.wikipedia.org/wiki/Bosnia_And_Herzegovina,200.0
-Botswana,2351627,566730,4,https://en.wikipedia.org/wiki/Botswana,200.0
-Brazil,212559417,8358140,25,https://en.wikipedia.org/wiki/Brazil,200.0
-Brunei,437479,5270,83,https://en.wikipedia.org/wiki/Brunei,200.0
-Bulgaria,6948445,108560,64,https://en.wikipedia.org/wiki/Bulgaria,200.0
-Burkina Faso,20903273,273600,76,https://en.wikipedia.org/wiki/Burkina_Faso,200.0
-Burundi,11890784,25680,463,https://en.wikipedia.org/wiki/Burundi,200.0
-Côte dIvoire,26378274,318000,83,https://en.wikipedia.org/wiki/Côte_Divoire,200.0
-Cabo Verde,555987,4030,138,https://en.wikipedia.org/wiki/Cabo_Verde,200.0
-Cambodia,16718965,176520,95,https://en.wikipedia.org/wiki/Cambodia,200.0
-Cameroon,26545863,472710,56,https://en.wikipedia.org/wiki/Cameroon,200.0
-Canada,37742154,9093510,4,https://en.wikipedia.org/wiki/Canada,200.0
-Central African Republic,4829767,622980,8,https://en.wikipedia.org/wiki/Central_African_Republic,200.0
-Chad,16425864,1259200,13,https://en.wikipedia.org/wiki/Chad,200.0
-Chile,19116201,743532,26,https://en.wikipedia.org/wiki/Chile,200.0
-China,1439323776,9388211,153,https://en.wikipedia.org/wiki/China,200.0
-Colombia,50882891,1109500,46,https://en.wikipedia.org/wiki/Colombia,200.0
-Comoros,869601,1861,467,https://en.wikipedia.org/wiki/Comoros,200.0
-Congo,5518087,341500,16,https://en.wikipedia.org/wiki/Congo,200.0
-Costa Rica,5094118,51060,100,https://en.wikipedia.org/wiki/Costa_Rica,200.0
-Croatia,4105267,55960,73,https://en.wikipedia.org/wiki/Croatia,200.0
-Cuba,11326616,106440,106,https://en.wikipedia.org/wiki/Cuba,200.0
-Cyprus,1207359,9240,131,https://en.wikipedia.org/wiki/Cyprus,200.0
-Czechia,10708981,77240,139,https://en.wikipedia.org/wiki/Czechia,200.0
-Democratic Republic of the Congo,89561403,2267050,40,https://en.wikipedia.org/wiki/Democratic_Republic_Of_The_Congo,200.0
-Denmark,5792202,42430,137,https://en.wikipedia.org/wiki/Denmark,200.0
-Djibouti,988000,23180,43,https://en.wikipedia.org/wiki/Djibouti,200.0
-Dominica,71986,750,96,https://en.wikipedia.org/wiki/Dominica,200.0
-Dominican Republic,10847910,48320,225,https://en.wikipedia.org/wiki/Dominican_Republic,200.0
-Ecuador,17643054,248360,71,https://en.wikipedia.org/wiki/Ecuador,200.0
-Egypt,102334404,995450,103,https://en.wikipedia.org/wiki/Egypt,200.0
-El Salvador,6486205,20720,313,https://en.wikipedia.org/wiki/El_Salvador,200.0
-Equatorial Guinea,1402985,28050,50,https://en.wikipedia.org/wiki/Equatorial_Guinea,200.0
-Eritrea,3546421,101000,35,https://en.wikipedia.org/wiki/Eritrea,200.0
-Estonia,1326535,42390,31,https://en.wikipedia.org/wiki/Estonia,200.0
-Eswatini,1160164,17200,67,https://en.wikipedia.org/wiki/Eswatini,200.0
-Ethiopia,114963588,1000000,115,https://en.wikipedia.org/wiki/Ethiopia,200.0
-Fiji,896445,18270,49,https://en.wikipedia.org/wiki/Fiji,200.0
-Finland,5540720,303890,18,https://en.wikipedia.org/wiki/Finland,200.0
-France,65273511,547557,119,https://en.wikipedia.org/wiki/France,200.0
-Gabon,2225734,257670,9,https://en.wikipedia.org/wiki/Gabon,200.0
-Gambia,2416668,10120,239,https://en.wikipedia.org/wiki/Gambia,200.0
-Georgia,3989167,69490,57,https://en.wikipedia.org/wiki/Georgia,200.0
-Germany,83783942,348560,240,https://en.wikipedia.org/wiki/Germany,200.0
-Ghana,31072940,227540,137,https://en.wikipedia.org/wiki/Ghana,200.0
-Greece,10423054,128900,81,https://en.wikipedia.org/wiki/Greece,200.0
-Grenada,112523,340,331,https://en.wikipedia.org/wiki/Grenada,200.0
-Guatemala,17915568,107160,167,https://en.wikipedia.org/wiki/Guatemala,200.0
-Guinea,13132795,245720,53,https://en.wikipedia.org/wiki/Guinea,200.0
-Guinea-Bissau,1968001,28120,70,https://en.wikipedia.org/wiki/Guinea-Bissau,200.0
-Guyana,786552,196850,4,https://en.wikipedia.org/wiki/Guyana,200.0
-Haiti,11402528,27560,414,https://en.wikipedia.org/wiki/Haiti,200.0
-Holy See,801,0,2003,https://en.wikipedia.org/wiki/Holy_See,200.0
-Honduras,9904607,111890,89,https://en.wikipedia.org/wiki/Honduras,200.0
-Hungary,9660351,90530,107,https://en.wikipedia.org/wiki/Hungary,200.0
-Iceland,341243,100250,3,https://en.wikipedia.org/wiki/Iceland,200.0
-India,1380004385,2973190,464,https://en.wikipedia.org/wiki/India,200.0
-Indonesia,273523615,1811570,151,https://en.wikipedia.org/wiki/Indonesia,200.0
-Iran,83992949,1628550,52,https://en.wikipedia.org/wiki/Iran,200.0
-Iraq,40222493,434320,93,https://en.wikipedia.org/wiki/Iraq,200.0
-Ireland,4937786,68890,72,https://en.wikipedia.org/wiki/Ireland,200.0
-Israel,8655535,21640,400,https://en.wikipedia.org/wiki/Israel,200.0
-Italy,60461826,294140,206,https://en.wikipedia.org/wiki/Italy,200.0
-Jamaica,2961167,10830,273,https://en.wikipedia.org/wiki/Jamaica,200.0
-Japan,126476461,364555,347,https://en.wikipedia.org/wiki/Japan,200.0
-Jordan,10203134,88780,115,https://en.wikipedia.org/wiki/Jordan,200.0
-Kazakhstan,18776707,2699700,7,https://en.wikipedia.org/wiki/Kazakhstan,200.0
-Kenya,53771296,569140,94,https://en.wikipedia.org/wiki/Kenya,200.0
-Kiribati,119449,810,147,https://en.wikipedia.org/wiki/Kiribati,200.0
-Kuwait,4270571,17820,240,https://en.wikipedia.org/wiki/Kuwait,200.0
-Kyrgyzstan,6524195,191800,34,https://en.wikipedia.org/wiki/Kyrgyzstan,200.0
-Laos,7275560,230800,32,https://en.wikipedia.org/wiki/Laos,200.0
-Latvia,1886198,62200,30,https://en.wikipedia.org/wiki/Latvia,200.0
-Lebanon,6825445,10230,667,https://en.wikipedia.org/wiki/Lebanon,200.0
-Lesotho,2142249,30360,71,https://en.wikipedia.org/wiki/Lesotho,200.0
-Liberia,5057681,96320,53,https://en.wikipedia.org/wiki/Liberia,200.0
-Libya,6871292,1759540,4,https://en.wikipedia.org/wiki/Libya,200.0
-Liechtenstein,38128,160,238,https://en.wikipedia.org/wiki/Liechtenstein,200.0
-Lithuania,2722289,62674,43,https://en.wikipedia.org/wiki/Lithuania,200.0
-Luxembourg,625978,2590,242,https://en.wikipedia.org/wiki/Luxembourg,200.0
-Madagascar,27691018,581795,48,https://en.wikipedia.org/wiki/Madagascar,200.0
-Malawi,19129952,94280,203,https://en.wikipedia.org/wiki/Malawi,200.0
-Malaysia,32365999,328550,99,https://en.wikipedia.org/wiki/Malaysia,200.0
-Maldives,540544,300,1802,https://en.wikipedia.org/wiki/Maldives,200.0
-Mali,20250833,1220190,17,https://en.wikipedia.org/wiki/Mali,200.0
-Malta,441543,320,1380,https://en.wikipedia.org/wiki/Malta,200.0
-Marshall Islands,59190,180,329,https://en.wikipedia.org/wiki/Marshall_Islands,200.0
-Mauritania,4649658,1030700,5,https://en.wikipedia.org/wiki/Mauritania,200.0
-Mauritius,1271768,2030,626,https://en.wikipedia.org/wiki/Mauritius,200.0
-Mexico,128932753,1943950,66,https://en.wikipedia.org/wiki/Mexico,200.0
-Micronesia,548914,700,784,https://en.wikipedia.org/wiki/Micronesia,200.0
-Moldova,4033963,32850,123,https://en.wikipedia.org/wiki/Moldova,200.0
-Monaco,39242,1,26337,https://en.wikipedia.org/wiki/Monaco,200.0
-Mongolia,3278290,1553560,2,https://en.wikipedia.org/wiki/Mongolia,200.0
-Montenegro,628066,13450,47,https://en.wikipedia.org/wiki/Montenegro,200.0
-Morocco,36910560,446300,83,https://en.wikipedia.org/wiki/Morocco,200.0
-Mozambique,31255435,786380,40,https://en.wikipedia.org/wiki/Mozambique,200.0
-Myanmar,54409800,653290,83,https://en.wikipedia.org/wiki/Myanmar,200.0
-Namibia,2540905,823290,3,https://en.wikipedia.org/wiki/Namibia,200.0
-Nauru,10824,20,541,https://en.wikipedia.org/wiki/Nauru,200.0
-Nepal,29136808,143350,203,https://en.wikipedia.org/wiki/Nepal,200.0
-Netherlands,17134872,33720,508,https://en.wikipedia.org/wiki/Netherlands,200.0
-New Zealand,4822233,263310,18,https://en.wikipedia.org/wiki/New_Zealand,200.0
-Nicaragua,6624554,120340,55,https://en.wikipedia.org/wiki/Nicaragua,200.0
-Niger,24206644,1266700,19,https://en.wikipedia.org/wiki/Niger,200.0
-Nigeria,206139589,910770,226,https://en.wikipedia.org/wiki/Nigeria,200.0
-North Korea,25778816,120410,214,https://en.wikipedia.org/wiki/North_Korea,200.0
-North Macedonia,2083374,25220,83,https://en.wikipedia.org/wiki/North_Macedonia,200.0
-Norway,5421241,365268,15,https://en.wikipedia.org/wiki/Norway,200.0
-Oman,5106626,309500,16,https://en.wikipedia.org/wiki/Oman,200.0
-Pakistan,220892340,770880,287,https://en.wikipedia.org/wiki/Pakistan,200.0
-Palau,18094,460,39,https://en.wikipedia.org/wiki/Palau,200.0
-Palestine State,5101414,6020,847,https://en.wikipedia.org/wiki/Palestine_State,404.0
-Panama,4314767,74340,58,https://en.wikipedia.org/wiki/Panama,200.0
-Papua New Guinea,8947024,452860,20,https://en.wikipedia.org/wiki/Papua_New_Guinea,200.0
-Paraguay,7132538,397300,18,https://en.wikipedia.org/wiki/Paraguay,200.0
-Peru,32971854,1280000,26,https://en.wikipedia.org/wiki/Peru,200.0
-Philippines,109581078,298170,368,https://en.wikipedia.org/wiki/Philippines,200.0
-Poland,37846611,306230,124,https://en.wikipedia.org/wiki/Poland,200.0
-Portugal,10196709,91590,111,https://en.wikipedia.org/wiki/Portugal,200.0
-Qatar,2881053,11610,248,https://en.wikipedia.org/wiki/Qatar,200.0
-Romania,19237691,230170,84,https://en.wikipedia.org/wiki/Romania,200.0
-Russia,145934462,16376870,9,https://en.wikipedia.org/wiki/Russia,200.0
-Rwanda,12952218,24670,525,https://en.wikipedia.org/wiki/Rwanda,200.0
-Saint Kitts and Nevis,53199,260,205,https://en.wikipedia.org/wiki/Saint_Kitts_And_Nevis,200.0
-Saint Lucia,183627,610,301,https://en.wikipedia.org/wiki/Saint_Lucia,200.0
-Saint Vincent and the Grenadines,110940,390,284,https://en.wikipedia.org/wiki/Saint_Vincent_And_The_Grenadines,200.0
-Samoa,198414,2830,70,https://en.wikipedia.org/wiki/Samoa,200.0
-San Marino,33931,60,566,https://en.wikipedia.org/wiki/San_Marino,200.0
-Sao Tome and Principe,219159,960,228,https://en.wikipedia.org/wiki/Sao_Tome_And_Principe,200.0
-Saudi Arabia,34813871,2149690,16,https://en.wikipedia.org/wiki/Saudi_Arabia,200.0
-Senegal,16743927,192530,87,https://en.wikipedia.org/wiki/Senegal,200.0
-Serbia,8737371,87460,100,https://en.wikipedia.org/wiki/Serbia,200.0
-Seychelles,98347,460,214,https://en.wikipedia.org/wiki/Seychelles,200.0
-Sierra Leone,7976983,72180,111,https://en.wikipedia.org/wiki/Sierra_Leone,200.0
-Singapore,5850342,700,8358,https://en.wikipedia.org/wiki/Singapore,200.0
-Slovakia,5459642,48088,114,https://en.wikipedia.org/wiki/Slovakia,200.0
-Slovenia,2078938,20140,103,https://en.wikipedia.org/wiki/Slovenia,200.0
-Solomon Islands,686884,27990,25,https://en.wikipedia.org/wiki/Solomon_Islands,200.0
-Somalia,15893222,627340,25,https://en.wikipedia.org/wiki/Somalia,200.0
-South Africa,59308690,1213090,49,https://en.wikipedia.org/wiki/South_Africa,200.0
-South Korea,51269185,97230,527,https://en.wikipedia.org/wiki/South_Korea,200.0
-South Sudan,11193725,610952,18,https://en.wikipedia.org/wiki/South_Sudan,200.0
-Spain,46754778,498800,94,https://en.wikipedia.org/wiki/Spain,200.0
-Sri Lanka,21413249,62710,341,https://en.wikipedia.org/wiki/Sri_Lanka,200.0
-Sudan,43849260,1765048,25,https://en.wikipedia.org/wiki/Sudan,200.0
-Suriname,586632,156000,4,https://en.wikipedia.org/wiki/Suriname,200.0
-Sweden,10099265,410340,25,https://en.wikipedia.org/wiki/Sweden,200.0
-Switzerland,8654622,39516,219,https://en.wikipedia.org/wiki/Switzerland,200.0
-Syria,17500658,183630,95,https://en.wikipedia.org/wiki/Syria,200.0
-Tajikistan,9537645,139960,68,https://en.wikipedia.org/wiki/Tajikistan,200.0
-Tanzania,59734218,885800,67,https://en.wikipedia.org/wiki/Tanzania,200.0
-Thailand,69799978,510890,137,https://en.wikipedia.org/wiki/Thailand,200.0
-Timor-Leste,1318445,14870,89,https://en.wikipedia.org/wiki/Timor-Leste,200.0
-Togo,8278724,54390,152,https://en.wikipedia.org/wiki/Togo,200.0
-Tonga,105695,720,147,https://en.wikipedia.org/wiki/Tonga,200.0
-Trinidad and Tobago,1399488,5130,273,https://en.wikipedia.org/wiki/Trinidad_And_Tobago,200.0
-Tunisia,11818619,155360,76,https://en.wikipedia.org/wiki/Tunisia,200.0
-Turkey,84339067,769630,110,https://en.wikipedia.org/wiki/Turkey,200.0
-Turkmenistan,6031200,469930,13,https://en.wikipedia.org/wiki/Turkmenistan,200.0
-Tuvalu,11792,30,393,https://en.wikipedia.org/wiki/Tuvalu,200.0
-Uganda,45741007,199810,229,https://en.wikipedia.org/wiki/Uganda,200.0
-Ukraine,43733762,579320,75,https://en.wikipedia.org/wiki/Ukraine,200.0
-United Arab Emirates,9890402,83600,118,https://en.wikipedia.org/wiki/United_Arab_Emirates,200.0
-United Kingdom,67886011,241930,281,https://en.wikipedia.org/wiki/United_Kingdom,200.0
-United States of America,331002651,9147420,36,https://en.wikipedia.org/wiki/United_States_Of_America,200.0
-Uruguay,3473730,175020,20,https://en.wikipedia.org/wiki/Uruguay,200.0
-Uzbekistan,33469203,425400,79,https://en.wikipedia.org/wiki/Uzbekistan,200.0
-Vanuatu,307145,12190,25,https://en.wikipedia.org/wiki/Vanuatu,200.0
-Venezuela,28435940,882050,32,https://en.wikipedia.org/wiki/Venezuela,200.0
-Vietnam,97338579,310070,314,https://en.wikipedia.org/wiki/Vietnam,200.0
-Yemen,29825964,527970,56,https://en.wikipedia.org/wiki/Yemen,200.0
-Zambia,18383955,743390,25,https://en.wikipedia.org/wiki/Zambia,200.0
-Zimbabwe,14862924,386850,38,https://en.wikipedia.org/wiki/Zimbabwe,200.0
+Country;Population(2020);Land Area(Km²);Density(P/Km²);wiki_site;wiki_status
+Afghanistan;38928346;652860;60;https://en.wikipedia.org/wiki/Afghanistan;200.0
+Albania;2877797;27400;105;https://en.wikipedia.org/wiki/Albania;200.0
+Algeria;43851044;2381740;18;https://en.wikipedia.org/wiki/Algeria;200.0
+Andorra;77265;470;164;https://en.wikipedia.org/wiki/Andorra;200.0
+Angola;32866272;1246700;26;https://en.wikipedia.org/wiki/Angola;200.0
+Antigua and Barbuda;97929;440;223;https://en.wikipedia.org/wiki/Antigua_And_Barbuda;200.0
+Argentina;45195774;2736690;17;https://en.wikipedia.org/wiki/Argentina;200.0
+Armenia;2963243;28470;104;https://en.wikipedia.org/wiki/Armenia;200.0
+Australia;25499884;7682300;3;https://en.wikipedia.org/wiki/Australia;200.0
+Austria;9006398;82409;109;https://en.wikipedia.org/wiki/Austria;200.0
+Azerbaijan;10139177;82658;123;https://en.wikipedia.org/wiki/Azerbaijan;200.0
+Bahamas;393244;10010;39;https://en.wikipedia.org/wiki/Bahamas;200.0
+Bahrain;1701575;760;2239;https://en.wikipedia.org/wiki/Bahrain;200.0
+Bangladesh;164689383;130170;1265;https://en.wikipedia.org/wiki/Bangladesh;200.0
+Barbados;287375;430;668;https://en.wikipedia.org/wiki/Barbados;200.0
+Belarus;9449323;202910;47;https://en.wikipedia.org/wiki/Belarus;200.0
+Belgium;11589623;30280;383;https://en.wikipedia.org/wiki/Belgium;200.
+Belize;397628;22810;17;https://en.wikipedia.org/wiki/Belize;200.0
+Benin;12123200;112760;108;https://en.wikipedia.org/wiki/Benin;200.0
+Bhutan;771608;38117;20;https://en.wikipedia.org/wiki/Bhutan;200.0
+Bolivia;11673021;1083300;11;https://en.wikipedia.org/wiki/Bolivia;200.0
+Bosnia and Herzegovina;3280819;51000;64;https://en.wikipedia.org/wiki/Bosnia_And_Herzegovina;200.0
+Botswana;2351627;566730;4;https://en.wikipedia.org/wiki/Botswana;200.0
+Brazil;212559417;8358140;25;https://en.wikipedia.org/wiki/Brazil;200.0
+Brunei;437479;5270;83;https://en.wikipedia.org/wiki/Brunei;200.0
+Bulgaria;6948445;108560;64;https://en.wikipedia.org/wiki/Bulgaria;200.0
+Burkina Faso;20903273;273600;76;https://en.wikipedia.org/wiki/Burkina_Faso;200.0
+Burundi;11890784;25680;463;https://en.wikipedia.org/wiki/Burundi;200.0
+Côte dIvoire;26378274;318000;83;https://en.wikipedia.org/wiki/Côte_Divoire;200.0
+Cabo Verde;555987;4030;138;https://en.wikipedia.org/wiki/Cabo_Verde;200.0
+Cambodia;16718965;176520;95;https://en.wikipedia.org/wiki/Cambodia;200.0
+Cameroon;26545863;472710;56;https://en.wikipedia.org/wiki/Cameroon;200.0
+Canada;37742154;9093510;4;https://en.wikipedia.org/wiki/Canada;200.0
+Central African Republic;4829767;622980;8;https://en.wikipedia.org/wiki/Central_African_Republic;200.0
+Chad;16425864;1259200;13;https://en.wikipedia.org/wiki/Chad;200.0
+Chile;19116201;743532;26;https://en.wikipedia.org/wiki/Chile;200.0
+China;1439323776;9388211;153;https://en.wikipedia.org/wiki/China;200.0
+Colombia;50882891;1109500;46;https://en.wikipedia.org/wiki/Colombia;200.0
+Comoros;869601;1861;467;https://en.wikipedia.org/wiki/Comoros;200.0
+Congo;5518087;341500;16;https://en.wikipedia.org/wiki/Congo;200.0
+Costa Rica;5094118;51060;100;https://en.wikipedia.org/wiki/Costa_Rica;200.0
+Croatia;4105267;55960;73;https://en.wikipedia.org/wiki/Croatia;200.0
+Cuba;11326616;106440;106;https://en.wikipedia.org/wiki/Cuba;200.0
+Cyprus;1207359;9240;131;https://en.wikipedia.org/wiki/Cyprus;200.0
+Czechia;10708981;77240;139;https://en.wikipedia.org/wiki/Czechia;200.0
+Democratic Republic of the Congo;89561403;2267050;40;https://en.wikipedia.org/wiki/Democratic_Republic_Of_The_Congo;200.0
+Denmark;5792202;42430;137;https://en.wikipedia.org/wiki/Denmark;200.0
+Djibouti;988000;23180;43;https://en.wikipedia.org/wiki/Djibouti;200.0
+Dominica;71986;750;96;https://en.wikipedia.org/wiki/Dominica;200.0
+Dominican Republic;10847910;48320;225;https://en.wikipedia.org/wiki/Dominican_Republic;200.0
+Ecuador;17643054;248360;71;https://en.wikipedia.org/wiki/Ecuador;200.0
+Egypt;102334404;995450;103;https://en.wikipedia.org/wiki/Egypt;200.0
+El Salvador;6486205;20720;313;https://en.wikipedia.org/wiki/El_Salvador;200.0
+Equatorial Guinea;1402985;28050;50;https://en.wikipedia.org/wiki/Equatorial_Guinea;200.0
+Eritrea;3546421;101000;35;https://en.wikipedia.org/wiki/Eritrea;200.0
+Estonia;1326535;42390;31;https://en.wikipedia.org/wiki/Estonia;200.0
+Eswatini;1160164;17200;67;https://en.wikipedia.org/wiki/Eswatini;200.0
+Ethiopia;114963588;1000000;115;https://en.wikipedia.org/wiki/Ethiopia;200.0
+Fiji;896445;18270;49;https://en.wikipedia.org/wiki/Fiji;200.0
+Finland;5540720;303890;18;https://en.wikipedia.org/wiki/Finland;200.0
+France;65273511;547557;119;https://en.wikipedia.org/wiki/France;200.0
+Gabon;2225734;257670;9;https://en.wikipedia.org/wiki/Gabon;200.0
+Gambia;2416668;10120;239;https://en.wikipedia.org/wiki/Gambia;200.0
+Georgia;3989167;69490;57;https://en.wikipedia.org/wiki/Georgia;200.0
+Germany;83783942;348560;240;https://en.wikipedia.org/wiki/Germany;200.0
+Ghana;31072940;227540;137;https://en.wikipedia.org/wiki/Ghana;200.0
+Greece;10423054;128900;81;https://en.wikipedia.org/wiki/Greece;200.0
+Grenada;112523;340;331;https://en.wikipedia.org/wiki/Grenada;200.0
+Guatemala;17915568;107160;167;https://en.wikipedia.org/wiki/Guatemala;200.0
+Guinea;13132795;245720;53;https://en.wikipedia.org/wiki/Guinea;200.0
+Guinea-Bissau;1968001;28120;70;https://en.wikipedia.org/wiki/Guinea-Bissau;200.0
+Guyana;786552;196850;4;https://en.wikipedia.org/wiki/Guyana;200.0
+Haiti;11402528;27560;414;https://en.wikipedia.org/wiki/Haiti;200.0
+Holy See;801;0;2003;https://en.wikipedia.org/wiki/Holy_See;200.0
+Honduras;9904607;111890;89;https://en.wikipedia.org/wiki/Honduras;200.0
+Hungary;9660351;90530;107;https://en.wikipedia.org/wiki/Hungary;200.0
+Iceland;341243;100250;3;https://en.wikipedia.org/wiki/Iceland;200.0
+India;1380004385;2973190;464;https://en.wikipedia.org/wiki/India;200.0
+Indonesia;273523615;1811570;151;https://en.wikipedia.org/wiki/Indonesia;200.0
+Iran;83992949;1628550;52;https://en.wikipedia.org/wiki/Iran;200.0
+Iraq;40222493;434320;93;https://en.wikipedia.org/wiki/Iraq;200.0
+Ireland;4937786;68890;72;https://en.wikipedia.org/wiki/Ireland;200.0
+Israel;8655535;21640;400;https://en.wikipedia.org/wiki/Israel;200.0
+Italy;60461826;294140;206;https://en.wikipedia.org/wiki/Italy;200.0
+Jamaica;2961167;10830;273;https://en.wikipedia.org/wiki/Jamaica;200.0
+Japan;126476461;364555;347;https://en.wikipedia.org/wiki/Japan;200.0
+Jordan;10203134;88780;115;https://en.wikipedia.org/wiki/Jordan;200.0
+Kazakhstan;18776707;2699700;7;https://en.wikipedia.org/wiki/Kazakhstan;200.0
+Kenya;53771296;569140;94;https://en.wikipedia.org/wiki/Kenya;200.0
+Kiribati;119449;810;147;https://en.wikipedia.org/wiki/Kiribati;200.0
+Kuwait;4270571;17820;240;https://en.wikipedia.org/wiki/Kuwait;200.0
+Kyrgyzstan;6524195;191800;34;https://en.wikipedia.org/wiki/Kyrgyzstan;200.0
+Laos;7275560;230800;32;https://en.wikipedia.org/wiki/Laos;200.0
+Latvia;1886198;62200;30;https://en.wikipedia.org/wiki/Latvia;200.0
+Lebanon;6825445;10230;667;https://en.wikipedia.org/wiki/Lebanon;200.0
+Lesotho;2142249;30360;71;https://en.wikipedia.org/wiki/Lesotho;200.0
+Liberia;5057681;96320;53;https://en.wikipedia.org/wiki/Liberia;200.0
+Libya;6871292;1759540;4;https://en.wikipedia.org/wiki/Libya;200.0
+Liechtenstein;38128;160;238;https://en.wikipedia.org/wiki/Liechtenstein;200.0
+Lithuania;2722289;62674;43;https://en.wikipedia.org/wiki/Lithuania;200.0
+Luxembourg;625978;2590;242;https://en.wikipedia.org/wiki/Luxembourg;200.0
+Madagascar;27691018;581795;48;https://en.wikipedia.org/wiki/Madagascar;200.0
+Malawi;19129952;94280;203;https://en.wikipedia.org/wiki/Malawi;200.0
+Malaysia;32365999;328550;99;https://en.wikipedia.org/wiki/Malaysia;200.0
+Maldives;540544;300;1802;https://en.wikipedia.org/wiki/Maldives;200.0
+Mali;20250833;1220190;17;https://en.wikipedia.org/wiki/Mali;200.0
+Malta;441543;320;1380;https://en.wikipedia.org/wiki/Malta;200.0
+Marshall Islands;59190;180;329;https://en.wikipedia.org/wiki/Marshall_Islands;200.0
+Mauritania;4649658;1030700;5;https://en.wikipedia.org/wiki/Mauritania;200.0
+Mauritius;1271768;2030;626;https://en.wikipedia.org/wiki/Mauritius;200.0
+Mexico;128932753;1943950;66;https://en.wikipedia.org/wiki/Mexico;200.0
+Micronesia;548914;700;784;https://en.wikipedia.org/wiki/Micronesia;200.0
+Moldova;4033963;32850;123;https://en.wikipedia.org/wiki/Moldova;200.0
+Monaco;39242;1;26337;https://en.wikipedia.org/wiki/Monaco;200.0
+Mongolia;3278290;1553560;2;https://en.wikipedia.org/wiki/Mongolia;200.0
+Montenegro;628066;13450;47;https://en.wikipedia.org/wiki/Montenegro;200.0
+Morocco;36910560;446300;83;https://en.wikipedia.org/wiki/Morocco;200.0
+Mozambique;31255435;786380;40;https://en.wikipedia.org/wiki/Mozambique;200.0
+Myanmar;54409800;653290;83;https://en.wikipedia.org/wiki/Myanmar;200.0
+Namibia;2540905;823290;3;https://en.wikipedia.org/wiki/Namibia;200.0
+Nauru;10824;20;541;https://en.wikipedia.org/wiki/Nauru;200.0
+Nepal;29136808;143350;203;https://en.wikipedia.org/wiki/Nepal;200.0
+Netherlands;17134872;33720;508;https://en.wikipedia.org/wiki/Netherlands;200.0
+New Zealand;4822233;263310;18;https://en.wikipedia.org/wiki/New_Zealand;200.0
+Nicaragua;6624554;120340;55;https://en.wikipedia.org/wiki/Nicaragua;200.0
+Niger;24206644;1266700;19;https://en.wikipedia.org/wiki/Niger;200.0
+Nigeria;206139589;910770;226;https://en.wikipedia.org/wiki/Nigeria;200.0
+North Korea;25778816;120410;214;https://en.wikipedia.org/wiki/North_Korea;200.0
+North Macedonia;2083374;25220;83;https://en.wikipedia.org/wiki/North_Macedonia;200.0
+Norway;5421241;365268;15;https://en.wikipedia.org/wiki/Norway;200.0
+Oman;5106626;309500;16;https://en.wikipedia.org/wiki/Oman;200.0
+Pakistan;220892340;770880;287;https://en.wikipedia.org/wiki/Pakistan;200.0
+Palau;18094;460;39;https://en.wikipedia.org/wiki/Palau;200.0
+Palestine State;5101414;6020;847;https://en.wikipedia.org/wiki/Palestine_State;404.0
+Panama;4314767;74340;58;https://en.wikipedia.org/wiki/Panama;200.0
+Papua New Guinea;8947024;452860;20;https://en.wikipedia.org/wiki/Papua_New_Guinea;200.0
+Paraguay;7132538;397300;18;https://en.wikipedia.org/wiki/Paraguay;200.0
+Peru;32971854;1280000;26;https://en.wikipedia.org/wiki/Peru;200.0
+Philippines;109581078;298170;368;https://en.wikipedia.org/wiki/Philippines;200.0
+Poland;37846611;306230;124;https://en.wikipedia.org/wiki/Poland;200.0
+Portugal;10196709;91590;111;https://en.wikipedia.org/wiki/Portugal;200.0
+Qatar;2881053;11610;248;https://en.wikipedia.org/wiki/Qatar;200.0
+Romania;19237691;230170;84;https://en.wikipedia.org/wiki/Romania;200.0
+Russia;145934462;16376870;9;https://en.wikipedia.org/wiki/Russia;200.0
+Rwanda;12952218;24670;525;https://en.wikipedia.org/wiki/Rwanda;200.0
+Saint Kitts and Nevis;53199;260;205;https://en.wikipedia.org/wiki/Saint_Kitts_And_Nevis;200.0
+Saint Lucia;183627;610;301;https://en.wikipedia.org/wiki/Saint_Lucia;200.0
+Saint Vincent and the Grenadines;110940;390;284;https://en.wikipedia.org/wiki/Saint_Vincent_And_The_Grenadines;200.0
+Samoa;198414;2830;70;https://en.wikipedia.org/wiki/Samoa;200.0
+San Marino;33931;60;566;https://en.wikipedia.org/wiki/San_Marino;200.0
+Sao Tome and Principe;219159;960;228;https://en.wikipedia.org/wiki/Sao_Tome_And_Principe;200.0
+Saudi Arabia;34813871;2149690;16;https://en.wikipedia.org/wiki/Saudi_Arabia;200.0
+Senegal;16743927;192530;87;https://en.wikipedia.org/wiki/Senegal;200.0
+Serbia;8737371;87460;100;https://en.wikipedia.org/wiki/Serbia;200.0
+Seychelles;98347;460;214;https://en.wikipedia.org/wiki/Seychelles;200.0
+Sierra Leone;7976983;72180;111;https://en.wikipedia.org/wiki/Sierra_Leone;200.0
+Singapore;5850342;700;8358;https://en.wikipedia.org/wiki/Singapore;200.0
+Slovakia;5459642;48088;114;https://en.wikipedia.org/wiki/Slovakia;200.0
+Slovenia;2078938;20140;103;https://en.wikipedia.org/wiki/Slovenia;200.0
+Solomon Islands;686884;27990;25;https://en.wikipedia.org/wiki/Solomon_Islands;200.0
+Somalia;15893222;627340;25;https://en.wikipedia.org/wiki/Somalia;200.0
+South Africa;59308690;1213090;49;https://en.wikipedia.org/wiki/South_Africa;200.0
+South Korea;51269185;97230;527;https://en.wikipedia.org/wiki/South_Korea;200.0
+South Sudan;11193725;610952;18;https://en.wikipedia.org/wiki/South_Sudan;200.0
+Spain;46754778;498800;94;https://en.wikipedia.org/wiki/Spain;200.0
+Sri Lanka;21413249;62710;341;https://en.wikipedia.org/wiki/Sri_Lanka;200.0
+Sudan;43849260;1765048;25;https://en.wikipedia.org/wiki/Sudan;200.0
+Suriname;586632;156000;4;https://en.wikipedia.org/wiki/Suriname;200.0
+Sweden;10099265;410340;25;https://en.wikipedia.org/wiki/Sweden;200.0
+Switzerland;8654622;39516;219;https://en.wikipedia.org/wiki/Switzerland;200.0
+Syria;17500658;183630;95;https://en.wikipedia.org/wiki/Syria;200.0
+Tajikistan;9537645;139960;68;https://en.wikipedia.org/wiki/Tajikistan;200.0
+Tanzania;59734218;885800;67;https://en.wikipedia.org/wiki/Tanzania;200.0
+Thailand;69799978;510890;137;https://en.wikipedia.org/wiki/Thailand;200.0
+Timor-Leste;1318445;14870;89;https://en.wikipedia.org/wiki/Timor-Leste;200.0
+Togo;8278724;54390;152;https://en.wikipedia.org/wiki/Togo;200.0
+Tonga;105695;720;147;https://en.wikipedia.org/wiki/Tonga;200.0
+Trinidad and Tobago;1399488;5130;273;https://en.wikipedia.org/wiki/Trinidad_And_Tobago;200.0
+Tunisia;11818619;155360;76;https://en.wikipedia.org/wiki/Tunisia;200.0
+Turkey;84339067;769630;110;https://en.wikipedia.org/wiki/Turkey;200.0
+Turkmenistan;6031200;469930;13;https://en.wikipedia.org/wiki/Turkmenistan;200.0
+Tuvalu;11792;30;393;https://en.wikipedia.org/wiki/Tuvalu;200.0
+Uganda;45741007;199810;229;https://en.wikipedia.org/wiki/Uganda;200.0
+Ukraine;43733762;579320;75;https://en.wikipedia.org/wiki/Ukraine;200.0
+United Arab Emirates;9890402;83600;118;https://en.wikipedia.org/wiki/United_Arab_Emirates;200.0
+United Kingdom;67886011;241930;281;https://en.wikipedia.org/wiki/United_Kingdom;200.0
+United States of America;331002651;9147420;36;https://en.wikipedia.org/wiki/United_States_Of_America;200.0
+Uruguay;3473730;175020;20;https://en.wikipedia.org/wiki/Uruguay;200.0
+Uzbekistan;33469203;425400;79;https://en.wikipedia.org/wiki/Uzbekistan;200.0
+Vanuatu;307145;12190;25;https://en.wikipedia.org/wiki/Vanuatu;200.0
+Venezuela;28435940;882050;32;https://en.wikipedia.org/wiki/Venezuela;200.0
+Vietnam;97338579;310070;314;https://en.wikipedia.org/wiki/Vietnam;200.0
+Yemen;29825964;527970;56;https://en.wikipedia.org/wiki/Yemen;200.0
+Zambia;18383955;743390;25;https://en.wikipedia.org/wiki/Zambia;200.0
+Zimbabwe;14862924;386850;38;https://en.wikipedia.org/wiki/Zimbabwe;200.0

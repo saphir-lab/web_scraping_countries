@@ -115,7 +115,7 @@ def parse_one_country(filename:Path=None) -> dict:
                         country_dict[f"{th} location"]=td[-1]
                     country_dict["Largest city is Capital"]=False
                 else:
-                    pass                    
+                    country_dict[f"{th}"]=td
                 logger.debug(f"- {th}: {td}")
             else:
                 pass

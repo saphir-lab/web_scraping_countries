@@ -7,3 +7,4 @@ env/
 log/
 test/
 test.py
+.DS_Store
